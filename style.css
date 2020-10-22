@@ -1,0 +1,31 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #28282856;
+    background: linear-gradient(-45deg,#EE7752,#E73C7E,#23A6D5,#23D5AB);
+    background-size: 400% 400% ;
+    animation:GRADIENT 15S EASE INFINITE;
+    opacity: .4px;
+
+}
+
+section{
+    padding:  90px;
+    
+    height:100vh;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.content{
+    
+    margin-top: 50px;
+    margin-left:30%;
+
+}
+.audio{
+    margin-top:50px ;
+    margin-left:40% ;
+    margin-block-end: auto;
+}
